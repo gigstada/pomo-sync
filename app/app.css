@@ -1,0 +1,38 @@
+body {
+ font-family: "Courier New", Courier, monospace;
+}
+.search {
+ margin-left: 10px;
+}
+.main-btn {
+ /*margin:10px;*/
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+.time {
+  margin: 10px;
+  font-size: 8em;
+  line-height: 1em;
+}
+
+#myTimerId,
+#joinTimerId {
+  text-align: center;
+}
+
+.title {
+  margin: 20px;
+}
+
+.col-centered {
+ float: none;
+ margin: 0 auto;
+}
+#gameIdInput {
+ text-align: center;
+}
+
+.well-custom {
+
+}
